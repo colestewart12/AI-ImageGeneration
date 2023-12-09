@@ -1,4 +1,5 @@
 # AI-ImageGeneration
+
 Class- CS330
 Professor- Dr. Cao
 Names- Cole Stewart, Stuart Gavidia and Jonah Mulcrone
