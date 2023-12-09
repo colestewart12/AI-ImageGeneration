@@ -10,4 +10,4 @@ Here are the links to the Jupyter Notebooks for the three models:
 
 1. CLIP and BigGan - https://github.com/alpha2phi/jupyter-notebooks/blob/main/nbs/08_clip_biggan.ipynb
 2. CLIP and Latent Diffusion Model -
-3. Unconditional Denoising Diffusion Probabilistic Model (PyTorch w/ CUDA support) - 
+3. Unconditional Denoising Diffusion Probabilistic Model (PyTorch w/ CUDA support) - https://github.com/jonahansmulcrone/PyTorch-Stable-Diffusion
