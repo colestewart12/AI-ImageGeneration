@@ -9,5 +9,5 @@ For this project we looked at three different image generation models two of whi
 Here are the links to the Jupyter Notebooks for the three models:
 
 1. CLIP and BigGan - https://github.com/alpha2phi/jupyter-notebooks/blob/main/nbs/08_clip_biggan.ipynb
-2. CLIP and Latent Diffusion Model -
+2. CLIP and Latent Diffusion Model - https://colab.research.google.com/drive/1EIS7mAu4qcLsoEzQqREuxxaAX9Vmwt7H?usp=sharing#scrollTo=KiyXMyvDjPFk (Only First Part)
 3. Unconditional Denoising Diffusion Probabilistic Model (PyTorch w/ CUDA support) - https://github.com/jonahansmulcrone/PyTorch-Stable-Diffusion
