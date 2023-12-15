@@ -70,6 +70,45 @@ This project is directly related to the key topics covered in our Introduction t
 
 This project not only applies the technical knowledge gained in the course but also demonstrates the broader capabilities and impact of AI in real-world applications.
 
+## Comparative Analysis
+
+In our study, we compared three AI models — BigGAN, Latent Diffusion Model, and Denoising Diffusion at 30 and 300 Epochs — to evaluate their performance in generating images from text. Stuart conducted a blind evaluation to provide an unbiased assessment. Our test prompt was "Snowy Mountain," and here are our findings:
+
+### BigGAN
+
+![BigGan image](./BigGAN.png)
+
+- **Performance**: BigGAN performed well in creating a "Snowy Mountain" image, though it showed some limitations in creative aspects.
+- **Strengths**: It excelled at producing realistic images that closely matched the text description.
+- **Weaknesses**: This model required high computational power, ranking second in terms of computer intensity and taking 30 minutes to train and generate an image.
+- **Unique Characteristics**: Known for its high-resolution and lifelike image generation, BigGAN lived up to its reputation by producing detailed and visually appealing results.
+
+### Latent Diffusion Model
+
+![Latent Diffusion Model image](./LatentDiffusionModel.png)
+
+- **Performance**: This model created an artistic and stylized image, ideal for children's books.
+- **Strengths**: It was user-friendly in terms of setup and coding.
+- **Weaknesses**: The model had a longer processing time, taking about 10 minutes to generate an image, and required substantial storage space.
+- **Unique Characteristics**: It produced more abstract and creatively interpreted images, offering stylistic variety and unique perspectives.
+
+### Denoising Diffusion 30 and 300 Epochs
+
+![Denoising Diffusion 30 epochs image](./DenoisingDiffusion30.png)
+![Denoising Diffusion 300 epochs image](./DenoisingDiffusion300.png)
+
+- **Performance**: The 30-epoch model generally created oversimplified images, often in solid colors. The 300-epoch version showed significant improvement, with more colors and structure related to the text.
+- **Strengths**: The model improved markedly with additional training.
+- **Weaknesses**: It was the most computationally demanding model, requiring extensive time for training and taking a few days to train and generate an image.
+- **Unique Characteristics**: After substantial training (around 250-300 epochs), the model excelled at creating composite images from the trained data.
+
+### Overall Evaluation
+
+- **Blind Evaluation Results**: BigGAN ranked highest in accurately generating images from text, closely followed by the Latent Diffusion Model. The Denoising Diffusion Model showed potential to match BigGAN's performance with more training. The creativity of the Latent Diffusion Model sometimes led to less relevant images.
+- **Conclusion**: For our objective of creating children's books, the Latent Diffusion Model stands out for its artistic and imaginative image generation. While other models struggled with more creative prompts, the Latent Diffusion Model's ability to produce unique and engaging images makes it the most suitable choice for our project.
+
+This comparative analysis highlights the strengths and limitations of each model, guiding us in selecting the most appropriate model for specific tasks and scenarios.
+
 ## Jupyter Notebook links
 
 Here are the links to the Jupyter Notebooks for the three models:
