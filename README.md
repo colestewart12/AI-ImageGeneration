@@ -71,6 +71,7 @@ This project is directly related to the key topics covered in our Introduction t
 This project not only applies the technical knowledge gained in the course but also demonstrates the broader capabilities and impact of AI in real-world applications.
 
 ## Jupyter Notebook links
+
 Here are the links to the Jupyter Notebooks for the three models:
 
 1. CLIP and BigGan - https://github.com/alpha2phi/jupyter-notebooks/blob/main/nbs/08_clip_biggan.ipynb
@@ -78,4 +79,5 @@ Here are the links to the Jupyter Notebooks for the three models:
 3. Unconditional Denoising Diffusion Probabilistic Model (PyTorch w/ CUDA support) - https://github.com/jonahansmulcrone/PyTorch-Stable-Diffusion
 
 ## Final Presentation
+
 Final Presentation Link: https://docs.google.com/presentation/d/1cT-EiapUQVmLWxPNazNQwtStXKQl8zrDAmiGNpBnnWs/edit?usp=sharing
